@@ -1,0 +1,24 @@
+File de message créée
+Le pid de Pi est : 5626
+Demande d'accès envoyée, attente d'autorisation...
+Accès autorisé
+Ressource libérée
+Fin de Pi
+File de message créée
+Le pid de Pi est : 5627
+Demande d'accès envoyée, attente d'autorisation...
+Accès autorisé
+Ressource libérée
+Fin de Pi
+File de message créée
+Le pid de Pi est : 5626
+Demande d'accès envoyée, attente d'autorisation...
+Accès autorisé
+Ressource libérée
+Fin de Pi
+File de message créée
+Le pid de Pi est : 5630
+Demande d'accès envoyée, attente d'autorisation...
+Accès autorisé
+Ressource libérée
+Fin de Pi

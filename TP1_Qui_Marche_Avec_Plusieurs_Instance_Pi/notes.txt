@@ -1,0 +1,30 @@
+/* Schéma algorithmique :
+    Pi:
+        envoyer demande d'accès à Pctrl
+        recevoir accès autorisé
+        calculer
+        envoyer ressource libérée
+    */
+
+    Pctrl:
+        recevoir demande de Pi
+        si ressource libre
+            autoriser accès
+        sinon
+            mettre en attente
+        recevoir ressource libérée
+        recommencer
+
+
+A qui revient la responsabilité de la creation de la file des messages?
+    A Pctrl
+
+
+Votre solution peut-elle aboutir à une situation d'interblocage ? de famine ?
+    Oui, si Pctrl ne libère jamais la ressource, Pi ne pourra jamais accéder à la ressource
+
+
+
+    */
+
+
